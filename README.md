@@ -6,7 +6,7 @@
 - Linkedin profile :-https://www.linkedin.com/in/gopi-krishna-guntamukkala- 48b82bLb2/
 - github link      :- https://github.com/GopikrishnaGuntamukkala
 -   Gmail          :- gopikrishnaguntamukkala3@gmail.com
-- mail me if u want any courses(CB,CN,GFG,Interveiw preparation ,etc..) and I am happy to help...... 
+- mail me if u want any courses and I am happy to help...... 
 - 
 
 
