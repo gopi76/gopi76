@@ -1,9 +1,10 @@
 
 ![c](https://user-images.githubusercontent.com/107085222/190042499-77acdb18-9dac-4136-8fd0-62cbb12cd056.gif)
 
+
 - 👋 Hi, I’m @Gopi Krishna from Guntur,Andhra Pradesh
 - 👀 I’m interested in Artificial Intelligence, Data Analytics and Machine Learning 
-- 🌱 I’m currently learning DSA and Artificial Intelligence
+- 🌱 I’m currently learning DSA and Artificial Intelligence        
 - 💬 Currently studying Btech CSE[3rd year,ML] at LPU(Punjab)
 - 👨‍💻 Interested to do Real time AI/ML projects. 
 - ⚡ Languages:- Good in python and intermediate in java
@@ -12,8 +13,8 @@
 - github link      :- https://github.com/GopikrishnaGuntamukkala
 -   Gmail          :- gopikrishnaguntamukkala3@gmail.com
 - mail me if u want any courses/resources and I am happy to help...... 
-- 
-
+- 🔭 Complexity matters  a lot
+![c2](https://user-images.githubusercontent.com/107085222/190365378-bc552b2f-df68-4bea-8e65-45d1ee79c960.gif)
 
 <!---
 GopikrishnaGuntamukkala/GopikrishnaGuntamukkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
