@@ -12,8 +12,7 @@
 - Linkedin profile :-https://www.linkedin.com/in/gopi-krishna-guntamukkala- 48b82bLb2/
 - github link      :- https://github.com/GopikrishnaGuntamukkala
 -   Gmail          :- gopikrishnaguntamukkala3@gmail.com
-- mail me if u want any courses/resources and I am happy to help...... 
-- 🔭 Complexity matters  a lot
+
 ![c2](https://user-images.githubusercontent.com/107085222/190365378-bc552b2f-df68-4bea-8e65-45d1ee79c960.gif)
 
 <!---
