@@ -1,28 +1,56 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/107085222/199017161-25e16be2-553d-484e-a505-f3deac37a339.svg)
 
+<h1 align="center">Hi 👋, I'm G.Gopi Krishna from Andhra Pradesh,India</h1>
+<h3 align="center">You be the reason to make someone happy✨</h3>
 
-- 👋 Hi, I’m @Gopi Krishna from Guntur,Andhra Pradesh
-- 👀 I’m interested in Artificial Intelligence, Data Analytics and Machine Learning 
-- 🌱 I’m currently learning DSA and Artificial Intelligence        
-- 💬 Currently studying Btech CSE[3rd year,ML] at LPU(Punjab)
-- 👨‍💻 Interested to do Real time AI/ML projects. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
-- 📫 You can reach me through mail or linkedin
-- Linkedin profile :- https://www.linkedin.com/in/gopi76/
-- github link      :- https://github.com/gopi76
--   Gmail          :- gopikrishnaguntamukkala3@gmail.com
+- 💬 Currently i am studying BTech CSE, **Lovely Professional University(2024).**
 
+- 🌱 I’m currently learning **Data structures and machine learning**
+
+- 🔭 I’m currently working on the project, **Chatbot for CSE Students(Placement Resources,Technologies,PBC Tagged Questions,CSE Ebooks,The Top 10,Famous SDE Sheets,Programming languages,Google Drive links,Top 50 common interview questions,etc..)**
+<h3 align="center">Motive of this Project :-</h3>
+
+- **We can make any product/service especially  those who are in needy.It should be available for everyone.**
+
+- **(If you dont know how to use after learning,there is no need of learning)**
+
+  
+- **Aim was to reach the students who are willing to learn new Technologies.**
+  
+- **Students who were preparing their Technical /Coding interviews.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
+
+- 💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
+
+- 📫 How to reach me **gopikrishnaguntamukkala3@gmail.com**
+
+- 🤝 I’m **happy to help** if anything required from my side (incase if you required)
+
+- 👯 Always looking for collaborate and interested to do **Real time AI/ML projects**
+
+- ⚡ Fun fact **Python language is using in popular domains(Web development- Django, AI/ML, Data Science) but c++ is still faster than python 🤣**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gopi76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopi76/" height="30" width="40" /></a>
+<a href="https://instagram.com/g_o_p_i_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_o_p_i_76" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopi76&show_icons=true&locale=en&layout=compact" alt="gopi76" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopi76&show_icons=true&locale=en" alt="gopi76" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopi76&" alt="gopi76" /></p>
 
 
 <!---
 GopikrishnaGuntamukkala/GopikrishnaGuntamukkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![code](https://user-images.githubusercontent.com/107085222/199021418-d7c2121f-34c2-496c-ba27-8a0c82c8f45d.gif)
-
-- ⚡ Skills:-
-- PROGRAMMING LANGUAGES  -  C, C++, Python, Java, Kotlin(Basic)
-- FRONT END LANGUAGES    -  Html, CSS, Javascript 
-- TOOLS/PLATFORMS        -  Github, VS Code, JetBrains, Jupyter Notebook, Sublime Text, Intellij IDEA
-- GENERAL                -  Data Structures & Algorithms, OOPS with python
 
