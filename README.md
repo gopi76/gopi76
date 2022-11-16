@@ -13,9 +13,6 @@
 <h3 align="center">Motive of this Project :-</h3>
 
 - **We can make any product/service especially  those who are in needy.It should be available for everyone.**
-
-- **(If you dont know how to use after learning,there is no need of learning)**
-
   
 - **Aim was to reach the students who are willing to learn new Technologies.**
   
