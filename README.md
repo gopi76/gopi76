@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures and machine learning**
 
-- 🔭 I’m currently working on the project, **Chatbot for CSE Students(Placement Resources,Technologies,PBC Tagged Questions,CSE Ebooks,The Top 10,Famous SDE Sheets,Programming languages,Google Drive links,Top 50 common interview questions,etc..)**
+- 🔭 I’m currently working on the project,(available in portfolio) **Chatbot for CSE Students(Placement Resources,Technologies,PBC Tagged Questions,CSE Ebooks,The Top 10,Famous SDE Sheets,Programming languages,Google Drive links,Top 50 common interview questions,etc..)**
 <h3 align="center">Motive of this Project :-</h3>
 
 - **We can make any product/service especially  those who are in needy.It should be available for everyone.**
@@ -42,6 +42,7 @@
 [![linktr](https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gopikrishna76)
 [![Youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL436IrgeeCmNO5v2dRy0uA)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GopiKri54478726)
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://gopi76.mystrikingly.com/)
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreeFreeFree)
 [![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white)](gopikrishnaguntamukkala3@gmail.com)
 [![Github](https://img.shields.io/badge/Github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopi76)
