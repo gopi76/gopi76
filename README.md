@@ -1,7 +1,7 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/107085222/199017161-25e16be2-553d-484e-a505-f3deac37a339.svg)
 
 <h1 align="center">Hi 👋, I'm G.Gopi Krishna from Andhra Pradesh,India</h1>
-<h3 align="center">You be the reason to make someone happy✨</h3>
+<h3 align="center">Knowledge , Modesty and Morality✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
@@ -12,11 +12,6 @@
 - 🔭 I’m currently working on the project,(available in portfolio) **Chatbot for CSE Students(Placement Resources,Technologies,PBC Tagged Questions,CSE Ebooks,The Top 10,Famous SDE Sheets,Programming languages,Google Drive links,Top 50 common interview questions,etc..)**
 <h3 align="center">Motive of this Project :-</h3>
 
-- **We can make any product/service especially  those who are in needy.It should be available for everyone.**
-  
-- **Aim was to reach the students who are willing to learn new Technologies.**
-  
-- **Students who were preparing their Technical /Coding interviews.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
 
