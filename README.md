@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on the project,(available in portfolio) **Chatbot.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gopi76](GitHub)
+- 👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
 
 - 💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
 
