@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Data structures and machine learning**
 
-- 🔭 I’m currently working on the project,(available in portfolio) **Chatbot for CSE Students(Placement Resources,Technologies,PBC Tagged Questions,CSE Ebooks,The Top 10,Famous SDE Sheets,Programming languages,Google Drive links,Top 50 common interview questions,etc..)**
-<h3 align="center">Motive of this Project :-</h3>
+- 🔭 I’m currently working on the project,(available in portfolio) **Chatbot.**
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
+- 👨‍💻 All of my projects are available at [https://github.com/gopi76](GitHub)
 
 - 💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
 
