@@ -1,7 +1,7 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/107085222/199017161-25e16be2-553d-484e-a505-f3deac37a339.svg)
 
 <h1 align="center">Hi 👋, I'm G.Gopi Krishna from Andhra Pradesh,India</h1>
-<h3 align="center">Knowledge , Modesty and Morality✨</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C72FF&background=F7F6FFF3&width=435&lines=Knowledge+%2CModesty+and+Morality%E2%9C%A8" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
