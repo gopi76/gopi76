@@ -1,27 +1,27 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/107085222/199017161-25e16be2-553d-484e-a505-f3deac37a339.svg)
 
-<h1 align="center">Hi 👋, I'm G.Gopi Krishna from Andhra Pradesh,India</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C72FF&background=F7F6FFF3&width=435&lines=Knowledge+%2CModesty+and+Morality%E2%9C%A8" alt="Typing SVG" /></a></h3>
+<h1 align="center">Hi 👋, I'm Gopi Krishna from India</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
-- 💬 Currently i am studying BTech CSE, **Lovely Professional University(2024).**
+💬 Currently i am studying BTech CSE, **Lovely Professional University(2024).**
 
-- 🌱 I’m currently learning **Data structures and machine learning**
+🌱 I’m currently learning **Data structures and machine learning (side by side)**
 
-- 🔭 I’m currently working on the project,(available in portfolio) **Chatbot.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
 
-- 💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
+👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
 
-- 📫 How to reach me **gopikrishnaguntamukkala3@gmail.com**
+💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
 
-- 🤝 I’m **happy to help** if anything required from my side (incase if you required)
+📫 How to reach me **gopikrishnaguntamukkala3@gmail.com**
 
-- 👯 Always looking for collaborate and interested to do **Real time AI/ML projects**
+🤝 I’m **happy to help** if anything required from my side (incase if you required)
 
-- ⚡ Fun fact **Python language is using in popular domains(Web development- Django, AI/ML, Data Science) but c++ is still faster than python 🤣**
+👯 Always looking for collaborate and interested to do **Real time AI/ML projects**
+
+⚡ Fun fact **Python language is using in popular domains(Web development- Django, AI/ML, Data Science) but c++ is still faster than python 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
