@@ -5,23 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
-💬 Currently i am studying Final year BTech CSE [Lateral Entry], **Lovely Professional University(2024).**
+👋 I'm currently pursuing a undergrad degree in Computer Science and Engineering at Lovely Professional University (Punjab), India.
 
-🌱 I’m currently learning **Data structures and AI (side by side)**
+💬 My technical skills include proficiency in C, C++, Java, Python, and basic knowledge of Kotlin. I'm also familiar with front-end languages such as HTML, CSS, and JavaScript.
 
+📝 I have published peer-reviewed term papers with a high impact factor in reputed journals like IJAENT and IJSCE.
 
+💡 Feel free to ask me about Python, Java, Data Science, AI, or Machine Learning.
 
-👨‍💻 All of my projects are available at [https://github.com/gopi76](https://github.com/gopi76)
+👯 I have earned certifications including being a Certified Python Programmer by Microsoft (2022) and completing additional Coursera certificates in Machine Learning and NLP. You can view my badges and certificates [here](https://www.credly.com/users/guntamukkala-gopi-krishna/badges).
 
-💬 Ask me about **DSA,Java,Python,AI/ML,OOPS**
+🏆 I have participated in various coding contests, achieving a notable Global rank of 713 on Codechef.
 
-📫 How to reach me **gopikrishnaguntamukkala3@gmail.com**
+🔮 In terms of leadership, I have been a part of GDSC-LPU as a member of the A.I/ML team, where I assisted in simpler methods of machine learning, mentored mentees, and explored different concepts of ML.
 
-🤝 I’m **happy to help** if anything required from my side (incase if you required)
-
-👯 Always looking for collaborate and interested to do **Real time AI/ML projects**
-
-⚡ Fun fact **Python language is using in popular domains(Web development- Django, AI/ML, Data Science) but c++ is still faster than python 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
