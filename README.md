@@ -29,14 +29,17 @@
 <a href="https://instagram.com/g_o_p_i_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_o_p_i_76" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🔗OTHER Links</h3>
 
-[![linktr](https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gopikrishna76)
-[![Youtube](https://img.shields.io/badge/Youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL436IrgeeCmNO5v2dRy0uA)
+
+<h3 align="left">🔗 Other Links</h3>
+
+
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL436IrgeeCmNO5v2dRy0uA)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GopiKri54478726)
-[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreeFreeFree)
-[![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white)](gopikrishnaguntamukkala3@gmail.com)
-[![Github](https://img.shields.io/badge/Github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopi76)
+[![telegram](https://img.shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreeFreeFree)
+[![linktr](https://img.shields.io/badge/Linktree-FF00FF?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gopikrishna76)
+[![gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gopikrishnaguntamukkala3@gmail.com)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopi76)
 
 
 
@@ -99,5 +102,5 @@
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>   -->
 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
