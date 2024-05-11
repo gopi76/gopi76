@@ -19,7 +19,7 @@
 
 🔮 In terms of leadership, I have been a part of GDSC-LPU as a member of the A.I/ML team, where I assisted in simpler methods of machine learning, mentored mentees, and explored different concepts of ML.
 
-📫 Feel free to reach out to me: gopikrishnaguntamukkala3@gmail.com
+📫 Feel free to reach out to me.
 
 
 <h3 align="left">Connect with me:</h3>
