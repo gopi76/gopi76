@@ -7,7 +7,7 @@
 
 👋 I'm currently pursuing a undergrad degree in Computer Science and Engineering at Lovely Professional University (Punjab), India.
 
-💬 My technical skills include proficiency in C, C++, Java, Python, and basic knowledge of Kotlin. I'm also familiar with front-end languages such as HTML, CSS, and JavaScript.
+💬 I have graduated with a Bachelor of Technology (B.Tech ) in Computer Science and Engineering [ CSE ] from Lovely Professional University, Punjab, India, and I will be starting my studies at the University of Windsor in the Master of Applied Computing [ MAC ] program - (AI stream) in Fall 2024.
 
 📝 I have published peer-reviewed term papers with a high impact factor in reputed journals like IJAENT and IJSCE.
 
