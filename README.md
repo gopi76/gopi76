@@ -1,17 +1,15 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/107085222/199017161-25e16be2-553d-484e-a505-f3deac37a339.svg)
 
-<h1 align="center">Hi 👋, I'm Gopi Krishna from India</h1>
+<h1 align="center">Hi 👋, I'm Gopi Krishna</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
-👋 I'm currently pursuing a undergrad degree in Computer Science and Engineering at Lovely Professional University (Punjab), India.
+👋 I am currently pursuing a **Master of Applied Computing (MAC)** at the **University of Windsor**, specializing in **Artificial Intelligence**
 
 💬 I have graduated with a Bachelor of Technology (B.Tech ) in Computer Science and Engineering [ CSE ] from Lovely Professional University, Punjab, India, and I will be starting my studies at the University of Windsor in the Master of Applied Computing [ MAC ] program - (AI stream) in Fall 2024.
 
 📝 I have published peer-reviewed term papers with a high impact factor in reputed journals like IJAENT and IJSCE.
-
-💡 Feel free to ask me about Python, Java, Data Science, AI, or Machine Learning.
 
 👯 I have earned certifications including being a Certified Python Programmer by Microsoft (2022) and completing additional Coursera certificates in Machine Learning and NLP. You can view my badges and certificates [here](https://www.credly.com/users/guntamukkala-gopi-krishna/badges).
 
