@@ -5,19 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" /> </p>
 
-👋 I am currently pursuing a **Master of Applied Computing (MAC)** at the **University of Windsor**, specializing in **Artificial Intelligence**
-
-💬 I have graduated with a Bachelor of Technology (B.Tech ) in Computer Science and Engineering [ CSE ] from Lovely Professional University, Punjab, India, and I will be starting my studies at the University of Windsor in the Master of Applied Computing [ MAC ] program - (AI stream) in Fall 2024.
+💬 I am currently pursuing a **Master of Applied Computing (MAC)** at the **University of Windsor** (Windsor, Ontario, Canada), specializing in **Artificial Intelligence**
 
 📝 I have published peer-reviewed term papers with a high impact factor in reputed journals like IJAENT and IJSCE.
 
-👯 I have earned certifications including being a Certified Python Programmer by Microsoft (2022) and completing additional Coursera certificates in Machine Learning and NLP. You can view my badges and certificates [here](https://www.credly.com/users/guntamukkala-gopi-krishna/badges).
+👯 I have earned certifications including being a Certified Python Programmer by Microsoft (2022) and completing additional Coursera certifications. You can view my badges and certificates [here](https://www.credly.com/users/guntamukkala-gopi-krishna/badges).
 
 🏆 I have participated in various coding contests, achieving a notable Global rank of 713 on Codechef.
 
-🔮 In terms of leadership, I have been a part of GDSC-LPU as a member of the A.I/ML team, where I assisted in simpler methods of machine learning, mentored mentees, and explored different concepts of ML.
-
-📫 Feel free to reach out to me.
+📫 Feel free to reach out to me. [ gopikrishnaguntamukkala3@gmail.com ]
 
 
 <h3 align="left">Connect with me:</h3>
