@@ -13,7 +13,7 @@
 
 🏆 I have participated in various coding contests, achieving a notable Global rank of 713 on Codechef.
 
-📫 Feel free to reach out to me. [ gopikrishnaguntamukkala3@gmail.com ]
+📫 Feel free to reach out to me. 
 
 
 <h3 align="left">Connect with me:</h3>
