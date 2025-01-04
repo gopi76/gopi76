@@ -20,7 +20,6 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gopi76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopi76/" height="30" width="40" /></a>
-<a href="https://instagram.com/g_o_p_i_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_o_p_i_76" height="30" width="40" /></a>
 </p>
 
 
@@ -28,10 +27,6 @@
 <h3 align="left">🔗 Other Links</h3>
 
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL436IrgeeCmNO5v2dRy0uA)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GopiKri54478726)
-[![telegram](https://img.shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreeFreeFree)
-[![gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gopikrishnaguntamukkala3@gmail.com)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopi76)
 
 
