@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! I'm Gopi Krishna 👋</h1>
 
 <p align="center">
-  <em>Master's student | AI Enthusiast | Problem Solver | Research Publisher</em>
+  <em>Programmer | DSA | Microsoft Certified (2022) | GSSOC'23 & SSOC'23 Contributor | Tech Enthusiast 🚀 | Master's Student at University of Windsor</em>
 </p>
 
 <div align="center">
