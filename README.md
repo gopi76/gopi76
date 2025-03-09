@@ -84,4 +84,5 @@ I'm pursuing a **Master of Applied Computing (MAC)** at the **University of Wind
 
 <p align="center">
 <em>Feel free to reach out anytime - I'm always happy to connect and collaborate! 😊</em>
+  <em>Note: Several repositories are maintained as private. For reference access or code samples, please email me at gopikrishnaguntamukkala3@gmail.com.</em>
 </p>
