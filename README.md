@@ -81,6 +81,7 @@ I'm pursuing a **Master of Applied Computing (MAC)** at the **University of Wind
 - 📧 Email: gopikrishnaguntamukkala3@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gopi76/)
 - 🌐 Portfolio: Coming Soon!
+- Note to University of Windsor seniors (graduated or about to graduate): I strongly encourage you to reach out via email. You may receive valuable information that could benefit your career journey. For those I already know personally, I can provide additional insights that I cannot publicly disclose but would be significantly advantageous. Keep Subject as JRLEH ( dont share mail on evening times, i will be not available from 6pm to 11pm )
 
 <p align="center">
 <em>Feel free to reach out anytime - I'm always happy to connect and collaborate! 😊</em>
