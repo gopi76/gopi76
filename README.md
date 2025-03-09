@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gopi76&label=Profile%20views&color=0e75b6&style=flat" alt="gopi76" />
-  <img src="https://img.shields.io/github/repos/gopi76/gopi76?color=0e75b6&style=flat" alt="repository count"/>
+  <img src="https://img.shields.io/github/repositories/gopi76?color=0e75b6&style=flat" alt="repository count"/>
 </div>
 
 ## 🎓 About Me
